@@ -1,17 +1,20 @@
-managercoin Current Version
+ManagerCoin Description
 ===========================
-Version: 1.0.0.1
 
+**Manager Coin** - is a coin that is made specifically for the training centers.
 
-managercoin Development Tree
-===========================
-Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
+The goal of Managers Coin is to use it as a payment tool for payment of trainings and training on trading at crypto exchanges.
 
-The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions (see coding.txt) or are controversial.
+**Manager Coin** - promotes the development of a new profession CryptoManager.
 
-The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are regularly created to indicate new stable release versions of managercoin.
+Benefits to those who support the coin:
 
-Feature branches are created when there are major new features being worked on by several people.
+The growth of the coin will grow from the number of clients of the site ManagerCoin.Tech
+
+Students of the training centers will receive coins for practical training in trading on exchanges.
+
+==The coin has been updated from PoW to pure PoS (x13) on January 9, 2018.*==
+
 
 
 
